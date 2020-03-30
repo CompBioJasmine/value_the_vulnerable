@@ -2,7 +2,7 @@ export const questions = [
   {
     question: 'How are you coping with the crisis?',
     answerType: 'multiple',
-    answerChoices: ['Very Poorly', 'Somewhat Poorly', 'Neutral', 'Somewhat Well', 'Very Well'],
+    answerChoices: ["Very Well", "Mostly Well", "Neutral", "Mostly Poorly", "Very Poorly"],
     explainMoreText: null,
     id: 1,
     sort: 1,
